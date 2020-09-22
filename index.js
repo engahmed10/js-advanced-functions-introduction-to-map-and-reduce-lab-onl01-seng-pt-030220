@@ -7,7 +7,7 @@ function mapToNegativize(sourceArray) {
   let newArray=[]
   sourceArray.forEach (el =>
 
-   return newArray.push(el)
+    newArray.push(el)
   )
 return newArray
 }
