@@ -1,9 +1,14 @@
 // Your code here
 function mapToNegativize(sourceArray) {
 
-    return sourceArray.map(el =>
-        el * -1
-    )
+  //  return sourceArray.map(el =>
+    //    el * -1
+  //  )
+
+  sourceArray.forEach (el => 
+
+   return 
+  )
 
 }
 
