@@ -5,9 +5,9 @@ function mapToNegativize(sourceArray) {
     //    el * -1
   //  )
 
-  sourceArray.forEach (el => 
+  sourceArray.forEach (el =>
 
-   return 
+   return
   )
 
 }
