@@ -4,10 +4,10 @@ function mapToNegativize(sourceArray) {
   //  return sourceArray.map(el =>
     //    el * -1
   //  )
-
+  let newArray=[]
   sourceArray.forEach (el =>
 
-   return
+   return newArray.push(el)
   )
 
 }
