@@ -9,7 +9,7 @@ function mapToNegativize(sourceArray) {
 
    return newArray.push(el)
   )
-
+return newArray
 }
 
 
